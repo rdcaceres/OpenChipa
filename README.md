@@ -35,3 +35,7 @@ Formar las chipas en forma de rosquillas y colocarlas sobre una chapa en manteca
 Prof. Lic. Raul De Los Santos Caceres
 
 ![Yo El Supremo](https://avatars0.githubusercontent.com/u/18058793?v=3&s=460)
+
+## ¿Para qué sirve la SOTIC?
+
+[Click para más información](https://en.wikipedia.org/wiki/HTTP_404)
